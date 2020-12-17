@@ -68,6 +68,10 @@ body {
     padding-top: 125px !important;
 }
 
+#bookpic {
+    max-height: 650px;
+}
+
 // scss-docs-start import-stack
 // Configuration
 @import "functions";
